@@ -1,4 +1,4 @@
-// SUPREET MAURYA
+// Krishna Kant
 #include <bits/stdc++.h>
 using namespace std;
 #define S second

@@ -1,4 +1,4 @@
-// SUPREET MAURYA
+// Krishna Kant
 #include <bits/stdc++.h>
 #define S second
 #define F first
